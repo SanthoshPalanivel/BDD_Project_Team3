@@ -27,6 +27,7 @@ public class ToursPage extends FunctionalLibrary {
 
 	@FindBy(xpath = "//span[@class='go-right mob-fs10']")
 	private WebElement toursStarRatings;
+	
 
 	@FindBy(xpath = "//img[@class='center-block']")
 	private WebElement toursImageLink;
