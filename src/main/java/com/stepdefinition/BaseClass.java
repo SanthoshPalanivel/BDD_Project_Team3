@@ -12,6 +12,7 @@ public class BaseClass {
 
 		FunctionalLibrary.driverInit();
 		FunctionalLibrary.driver.get("http://www.phptravels.net");
+		
 	}
 
 	@After
